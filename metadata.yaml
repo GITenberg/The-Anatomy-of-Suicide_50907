@@ -1,10 +1,16 @@
 _repo: The-Anatomy-of-Suicide_50907
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50907-h/images/cover.jpg
 creator:
   author:
     agent_name: Winslow, Forbes
     gutenberg_agent_id: '46137'
     url: http://www.gutenberg.org/2009/agents/46137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50907#The-Anatomy-of-Suicide
 gutenberg_issued: '2016-01-12'
 gutenberg_type: Text
 identifiers:
